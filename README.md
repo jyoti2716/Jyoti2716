@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-# 👋 Hi there, I'm Shreya!
+# 👋 Hi there, I'm Jyoti!
 
-I'm a passionate and curious Computer Science student currently diving deep into **DSA (Data Structures & Algorithms)** and **Full-Stack Web Development**. I enjoy building real-world projects, solving algorithmic problems, and learning new technologies step by step.
+I'm a passionate and curious E&ECE student currently diving deep into **DSA (Data Structures & Algorithms)** and **Full-Stack Web Development**. I enjoy building real-world projects, solving algorithmic problems, and learning new technologies step by step.
 
 ---
 
 ## 🚀 What I'm Currently Working On
 
-- 📚 Strengthening my DSA concepts (Currently learning **Heaps**)
+- 📚 Strengthening my DSA concepts.
 - 💻 Building personal projects using **Node.js, Express, MongoDB, and React**
 - 🌐 Developing a fully functional **Job Application Tracker**
 - 🧠 Practicing C++ and mastering common coding patterns for interviews
@@ -27,10 +27,10 @@ I'm a passionate and curious Computer Science student currently diving deep into
 
 ## 📂 My Projects
 
-- 🎯 **[Job Application Tracker App](#)** – A MERN-based web app to keep track of job applications
-- 🌐 **[Portfolio Website](#)** – A personal website to showcase my projects and skills
-- ☁️ **[Weather App](#)** – Simple weather forecast app using OpenWeatherMap API
-- 🕹️ **[Snake Game in Python](#)** – Classic game using the Turtle module
+- 🎯 Job Application Tracker App – A MERN-based web app to keep track of job applications
+- 🌐 Portfolio Website – A personal website to showcase my projects and skills
+- ☁️ Weather App – Simple weather forecast app using OpenWeatherMap API
+- 🕹️ Snake Game in Python – Classic game using the Turtle module
 
 _(Links will be updated as projects are deployed)_
 
